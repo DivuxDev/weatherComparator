@@ -1,0 +1,14 @@
+
+*{
+    font-size: 18px;
+    font-family: "Courier New", monospace;
+}
+
+.borderedCard{
+    transition: all 0.3sease;
+    box-shadow: 8px 8px 0 #000;
+    border: 4px solid #000;
+    border-radius: 0;
+    background-color: #fff;
+    overflow: hidden;
+}
